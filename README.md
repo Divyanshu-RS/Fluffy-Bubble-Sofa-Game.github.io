@@ -15,5 +15,5 @@ You can turn off the music and sound effects from the home page and also choose 
 HTML , Css, Javascript
 
 Demo Screenshot:-
-![Alt text](assets/readme/img1.png)
 ![Alt text](assets/readme/img2.png)
+![Alt text](assets/readme/img1.png)
