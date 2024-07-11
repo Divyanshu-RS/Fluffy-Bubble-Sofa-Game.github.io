@@ -1,8 +1,8 @@
-# Flappy-bubble-sofa
+# Fluffy Bubble Sofa
 
-An animated and fun version of the popular fibannaco 2048 game. Built with HTML, CSS and Javascript.
+An animated and fun version of the popular fibonacci 2048 game. Built with HTML, CSS and Javascript.
 
-## Play here:-  
+## Play here:-  <a href="https://divyanshu-rs.github.io/Fluffy-Bubble-Sofa-Game.github.io/"> Fluffy Bubble Sofa </a> 
 
 ## How to play 
 
